@@ -3,11 +3,10 @@ RA: 1460682023036
 
 questão 6.1
 
-Sistema Operacional = windows xp/linux/7/8/10 - Soft. Gogs 
-Dados = um registo com valor sem significado, exemplo 37
-Informação = ulizaçao total do processaor 37%
-Conhecimento = chegando a até 100% e permanecendo assim por tempo indeterminado, o que pode ser extremamente prejudicial para o computador
-
+Sistema Computacional = Web Site Gogs 
+Dado = 1.8.3
+Informação = 1.8.3 versão do aplicativo 
+Conhecimento = Na Versão 1.8.3 do Gogs, ficou mais leve e com um sistema de plataforma cruzada que pode ser executado em qualquer lugar.
 
 6.2 
 binário      Decimal     Nome 
@@ -26,11 +25,7 @@ binário      Decimal     Nome
 0110 1010    106       = j
 0110 1111    111       = o
 
-6.3 link: https://gogs.io/
+6.3 link: https://www.kaspersky.com.br/
+- site kaspersky usa o https para embaralhar as suas mensagens e criar codigos indecifráveis.
 
-Gogs
-- Ele oferecer uma boa gama de recursos, aproximando-se bastante das funções mais importantes do APP Github;
-- Tem a instalação bastante simplificada como é comum a programas escritos nessa linguagem;
-- Pode ser executado inclusive em hardwares muito simples e de baixo custo.
-
-6.4 Imagem em jpg
+6.4 Imagem em PNG.
